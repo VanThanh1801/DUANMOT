@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="./view/css/style.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/loginstyle.css">
+    <link rel="stylesheet" href="./css/spct.css">
     <!-- <link rel="stylesheet" href="./view/css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="./view/css/animate.css">
     
