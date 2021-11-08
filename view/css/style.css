@@ -265,6 +265,11 @@ section {
     display: block;
 }
 
+a.btn {
+    padding: 10px;
+    font-size: 16px;
+}
+
 .product .box-container {
     display: flex;
     flex-wrap: wrap;
