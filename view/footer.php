@@ -1,4 +1,4 @@
-<script src="../view/js/slideshow.js"></script>
+<script src="./js/script.js"></script>
 
 <section class="footer">
 
