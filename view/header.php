@@ -59,7 +59,7 @@
             <div id="menu-bar" class="fas fa-bars"></div>
 
             <nav class="navbar">
-                <a href="#home">Trang Trủ</a>
+                <a href="#home">Trang Chủ</a>
                 <a href="#category">Danh Mục</a>
                 <a href="#product">Sản Phẩm</a>
                 <a href="#deal">Sale</a>
