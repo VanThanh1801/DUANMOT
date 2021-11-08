@@ -22,10 +22,14 @@
     <!-- product section starts  -->
 
     <?php include_once('view/product.php') ?>
-
+    <?php include_once('view/sale.php') ?>
+    <?php include_once('view/top10.php') ?>
     <!-- product section ends -->
 
     <!-- deal section starts  -->
+
+
+    <?php include_once('view/acency.php') ?>
 
     <?php include_once('view/deal.php') ?>
     <!-- deal section ends -->
