@@ -12,7 +12,10 @@
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap" rel="stylesheet">
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="./view/css/style.css">
+    <link rel="stylesheet" href="./css/loginstyle.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="view/css/style.css">
+    <link rel="stylesheet" href="./css/updateUser.css">
     <!-- <link rel="stylesheet" href="./view/css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="./view/css/animate.css">
     
