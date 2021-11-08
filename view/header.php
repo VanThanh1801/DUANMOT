@@ -15,24 +15,8 @@
     <link rel="stylesheet" href="./view/css/style.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/loginstyle.css">
-    <!-- <link rel="stylesheet" href="./view/css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="./view/css/animate.css">
+    <link rel="stylesheet" href="./css/cart.css">
     
-    <link rel="stylesheet" href="./view/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="./view/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="./view/css/magnific-popup.css">
-
-    <link rel="stylesheet" href="./view/css/aos.css">
-
-    <link rel="stylesheet" href="./view/css/ionicons.min.css">
-
-    <link rel="stylesheet" href="./view/css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="./view/css/jquery.timepicker.css">
-
-    
-    <link rel="stylesheet" href="./view/css/flaticon.css">
-    <link rel="stylesheet" href="./view/css/icomoon.css">
-    <link rel="stylesheet" href="./view/css/stylecopy.css"> -->
 
 </head>
 
