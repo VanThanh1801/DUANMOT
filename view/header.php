@@ -15,14 +15,7 @@
     <link rel="stylesheet" href="./view/css/style.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/loginstyle.css">
-   
-    <link rel="stylesheet" href="./css/spct.css">
-    <link rel="stylesheet" href="./css/checkout.css">
-    <link rel="stylesheet" href="./css/viewcar.css">
-    <link rel="stylesheet" href="./view/css/acency.css">
-    <link rel="stylesheet" href="./css/tracking.css">
-   
-    
+    <link rel="stylesheet" href="./css/allShop.css">
 
 </head>
 
@@ -63,7 +56,7 @@
       
    
               
-                <a href="#" id="cart"><i class="fa fa-shopping-cart"></i> Cart <span class="badge">3</span></a>
+                <a href="#" id="cart"><i class="fa fa-shopping-cart"></i>  </a>
                
                 <a href="#" class="fas fa-heart"></a>
                 <a href="#" class="fas fa-user-circle"></a>
