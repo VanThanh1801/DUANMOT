@@ -16,6 +16,13 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/loginstyle.css">
     <link rel="stylesheet" href="./css/allShop.css">
+    <link rel="stylesheet" href="./css/spct.css">
+    <link rel="stylesheet" href="./css/checkout.css">
+    <link rel="stylesheet" href="./css/viewcar.css">
+    <link rel="stylesheet" href="./view/css/acency.css">
+    <link rel="stylesheet" href="./css/tracking.css">
+
+
 
 </head>
 
