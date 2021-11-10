@@ -45,30 +45,89 @@
             </div>
             <div class="soluong">
                 <h3>Số lượng: </h3>
-                <input type="number" name="soluong" min="1" max="50" value="1"><br>
+                <input type="number" name="soluong" min="1" max="50" value="1"> 
+               <span>/kg</span>
             </div> <br>
             <button class="buy--btn"> THÊM VÀO GIỎ</button>
         </div>
     </section>
-        <!-- <div class="combo">
-            <h2>Combo khuyến mại</h2>
-            <div class="sale">
-                <img src="https://res.cloudinary.com/john-mantas/image/upload/v1537302064/codepen/delicious-apples/green-apple2.png" alt="green apple"> 
-                <span>+</span>
-                <img src="https://res.cloudinary.com/john-mantas/image/upload/v1537302064/codepen/delicious-apples/green-apple2.png" alt="green apple"> 
-                <span>+</span>
-                <img src="https://res.cloudinary.com/john-mantas/image/upload/v1537302064/codepen/delicious-apples/green-apple2.png" alt="green apple">
-                <a href="#" class="btn">Mua Ngay</a>
-            </div>
-        </div>  -->
         <div class="mota">
-            <h2>Product Description</h2>
+            <h2>Mô tả sản phẩm</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at pellentesque diam, at efficitur sem. Aliquam tempor euismod neque. Vestibulum sed augue sed neque ultrices varius. Mauris sodales fringilla dolor, sed varius dui lobortis vitae. Duis vitae arcu in mi volutpat ornare interdum eget purus. Sed eget fringilla mauris, sit amet dapibus metus. Maecenas rhoncus urna in mi viverra scelerisque. Sed accumsan hendrerit tellus vel viverra. Mauris sem urna, laoreet sed odio eget, tempus dignissim felis.</p>
             <p>Aliquam ac tellus efficitur, luctus leo et, condimentum felis. Aliquam vel lacus at est vestibulum dictum. Pellentesque fringilla urna id tellus aliquet ullamcorper.</p>
         </div>
         <div class="comments">
-            <h2 class="">Reviews </h2>
+            <h2 class="">Đánh giá sản phẩm</h2>
             <p class="">There are no reviews yet.</p>
         </div>
+
+         <!--- sanphamcungloai --->
+    <div class="small-container">
+        <h2>Sản phẩm cùng loại</h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="../view/images/product-11.jpg" alt="">
+                <h4>Bưới da xanh Đế vương</h4>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price"> $10.50 </div>
+            </div>
+            <div class="col-4">
+                <img src="../view/images/product-11.jpg" alt="">
+                <h4>Bưới da xanh Đế vương</h4>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price"> $10.50 </div>
+            </div>
+            <div class="col-4">
+                <img src="../view/images/product-11.jpg" alt="">
+                <h4>Bưới da xanh Đế vương</h4>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price"> $10.50 </div>
+            </div>
+            <div class="col-4">
+                <img src="../view/images/product-11.jpg" alt="">
+                <h4>Bưới da xanh Đế vương</h4>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price"> $10.50 </div>
+            </div>
+            <div class="col-4">
+                <img src="../view/images/product-11.jpg" alt="">
+                <h4>Bưới da xanh Đế vương</h4>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <div class="price"> $10.50 </div>
+            </div>
+            
+
+        </div>
+    </div>
         
     <?php include_once "./footer.php" ?>
